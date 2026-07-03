@@ -1,0 +1,101 @@
+perspective,term,tfidf_score
+Outlier / Noise,like,504.67
+Outlier / Noise,bag,389.21
+Outlier / Noise,buy,382.92
+Outlier / Noise,video,309.45
+Outlier / Noise,stuff,304.07
+Outlier / Noise,love,294.33
+Outlier / Noise,use,255.19
+Outlier / Noise,product,251.8
+Outlier / Noise,go,248.9
+Outlier / Noise,purse,237.52
+Everyday Objects & Consumption,ice,281.2
+Everyday Objects & Consumption,bag,217.46
+Everyday Objects & Consumption,jar,163.45
+Everyday Objects & Consumption,use,147.51
+Everyday Objects & Consumption,like,142.22
+Everyday Objects & Consumption,buy,134.0
+Everyday Objects & Consumption,fridge,121.67
+Everyday Objects & Consumption,video,113.48
+Everyday Objects & Consumption,love,101.92
+Everyday Objects & Consumption,restock,100.55
+"Society, Economy & Power Systems",vegan,48.66
+"Society, Economy & Power Systems",friend,20.29
+"Society, Economy & Power Systems",vegan product,18.53
+"Society, Economy & Power Systems",product,15.48
+"Society, Economy & Power Systems",bring,12.58
+"Society, Economy & Power Systems",vegan friend,9.65
+"Society, Economy & Power Systems",bathroom,9.41
+"Society, Economy & Power Systems",natural,8.37
+"Society, Economy & Power Systems",rating,8.04
+"Society, Economy & Power Systems",girl,8.03
+Other,like,241.33
+Other,love,154.39
+Other,buy,149.34
+Other,laugh,138.86
+Other,girl,129.68
+Other,loud,116.75
+Other,go,116.5
+Other,tiktok,113.56
+Other,laugh loud,112.81
+Other,hannah,110.46
+Abstract / Meme / Philosophical,nail,67.74
+Abstract / Meme / Philosophical,plastic,47.39
+Abstract / Meme / Philosophical,tap,21.52
+Abstract / Meme / Philosophical,recycle,17.14
+Abstract / Meme / Philosophical,waste,15.58
+Abstract / Meme / Philosophical,fingernail,12.67
+Abstract / Meme / Philosophical,landfill,11.43
+Abstract / Meme / Philosophical,plastic waste,9.2
+Abstract / Meme / Philosophical,nail tap,8.56
+Abstract / Meme / Philosophical,long,8.28
+Digital Media & Pop Culture,glow,79.5
+Digital Media & Pop Culture,cat,41.96
+Digital Media & Pop Culture,love,12.42
+Digital Media & Pop Culture,girl,9.51
+Digital Media & Pop Culture,kitty,9.13
+Digital Media & Pop Culture,like,8.78
+Digital Media & Pop Culture,glow up,8.66
+Digital Media & Pop Culture,up,8.18
+Digital Media & Pop Culture,meow,8.17
+Digital Media & Pop Culture,love cat,7.71
+Consumerism & Material Culture,blush,56.62
+Consumerism & Material Culture,asmr,48.84
+Consumerism & Material Culture,social,40.17
+Consumerism & Material Culture,social medium,39.22
+Consumerism & Material Culture,medium,39.05
+Consumerism & Material Culture,girl,31.54
+Consumerism & Material Culture,like,20.73
+Consumerism & Material Culture,organize,16.7
+Consumerism & Material Culture,bully,12.64
+Consumerism & Material Culture,blush collection,11.53
+Beauty & Self-Presentation,collect,91.99
+Beauty & Self-Presentation,consumerism,85.33
+Beauty & Self-Presentation,collection,79.47
+Beauty & Self-Presentation,like,79.35
+Beauty & Self-Presentation,slavery,72.57
+Beauty & Self-Presentation,buy,71.96
+Beauty & Self-Presentation,decor,68.06
+Beauty & Self-Presentation,year,67.4
+Beauty & Self-Presentation,fall,65.43
+Beauty & Self-Presentation,love,57.89
+Social Life & Identity,razor,125.21
+Social Life & Identity,book,99.55
+Social Life & Identity,read,58.61
+Social Life & Identity,overconsumption,44.58
+Social Life & Identity,buy,42.26
+Social Life & Identity,library,40.11
+Social Life & Identity,lecture,33.52
+Social Life & Identity,like,32.39
+Social Life & Identity,link,31.52
+Social Life & Identity,professor,28.78
+"Health, Routine & Physical Behavior",influencer,48.69
+"Health, Routine & Physical Behavior",makeup,41.69
+"Health, Routine & Physical Behavior",blood,39.89
+"Health, Routine & Physical Behavior",touchland,30.24
+"Health, Routine & Physical Behavior",donate,29.18
+"Health, Routine & Physical Behavior",donate blood,26.52
+"Health, Routine & Physical Behavior",sanitizer,24.7
+"Health, Routine & Physical Behavior",hand,21.56
+"Health, Routine & Physical Behavior",hand sanitizer,20.7
+"Health, Routine & Physical Behavior",product,18.41
