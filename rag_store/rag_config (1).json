@@ -1,0 +1,13 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "vector_store": "FAISS",
+  "llm_model": "llama-3.3-70b-versatile",
+  "confidence_threshold": 0.08,
+  "num_documents_indexed": 80320,
+  "retrieval_strategies": [
+    "semantic_mmr",
+    "lexical_tfidf",
+    "hybrid",
+    "metadata_filtered"
+  ]
+}

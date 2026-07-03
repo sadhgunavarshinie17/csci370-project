@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+langchain-community
+langchain-text-splitters
+faiss-cpu
+groq
