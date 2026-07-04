@@ -31,6 +31,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.embeddings import Embeddings
 
 # ────────────────────────────────────────────────────────────────────────
 # Page config & styling
@@ -116,7 +117,7 @@ def load_keywords():
 # ────────────────────────────────────────────────────────────────────────
 # RAG system (cached resource -- built once per session)
 # ────────────────────────────────────────────────────────────────────────
-class FastSemanticEmbeddings:
+class FastSemanticEmbeddings(Embeddings):
     """TF-IDF + TruncatedSVD (LSA) embeddings -- fast, no neural inference needed."""
     def __init__(self, texts, n_components=100):
         self.vectorizer = TfidfVectorizer(min_df=1, max_df=0.9, stop_words="english")
